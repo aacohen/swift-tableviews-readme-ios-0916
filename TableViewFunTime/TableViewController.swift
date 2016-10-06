@@ -17,6 +17,7 @@ class TableViewController: UITableViewController {
         super.viewDidLoad()
         
         generateFavoriteSongs()
+     
         
     }
     
